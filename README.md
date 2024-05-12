@@ -7,5 +7,7 @@ It combines 2 physical sensors as well as a bluetooth proxy for presence detecti
 The Components used for this sensor and links to where I got are from, as long as the physical dimentions of the sensors you use are the same then they will fit in the enclosure, do note its a bit of a tight fit inside though.
 
 Motherboard - ESP32 (USB C) - https://www.aliexpress.com/p/order/index.html
+
 MMWave Sensor - LD2410b - https://www.aliexpress.com/item/1005005087204432.html
+
 Ambient Light Sensor - BH1750 - https://www.aliexpress.com/p/order/index.html
