@@ -32,3 +32,12 @@ The Pinout I am using is below
   
   Tx (Yellow) = P14
 
+I soldered the other ends of the leads into the related pads on the ESP then took the cable from the BH1750 and trimmed the wires to size and soldered those to the board with the below pinout
+
+  VCC (Red) = 3v3
+  
+  SCL (Brown) = P22
+  
+  Data (White) = P21
+
+  Ground (Black) = Ground
