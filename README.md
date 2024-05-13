@@ -45,7 +45,11 @@ I soldered the other ends of the leads into the related pads on the ESP then too
 
 Then put it all in the case and tested a final time before using hot glue to secure the ESP board in place then attaching the lid, its friction fit and stays closed just fine
 
+![Immich Photo 1340](https://github.com/Sharnyaaa/HASS-Presence/assets/73518453/20655de0-c524-40a1-bfd6-2b85c895e8a7)
+
+
 ![Immich photo 1339](https://github.com/Sharnyaaa/HASS-Presence/assets/73518453/6d6a04c6-a431-4229-b0e8-0ce8d10ce60a)
+
 
 ![Immich Photo 1336](https://github.com/Sharnyaaa/HASS-Presence/assets/73518453/bf32d65b-1434-481a-a5e9-57011bd0a11c)
 
