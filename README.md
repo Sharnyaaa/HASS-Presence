@@ -12,7 +12,7 @@ MMWave Sensor - LD2410b - https://www.aliexpress.com/item/1005005087204432.html
 
 Ambient Light Sensor - BH1750 - https://www.aliexpress.com/p/order/index.html
 
-Enclosure - (Link to printables) 
+Enclosure - [(Link to printables) ](https://www.printables.com/model/876849-presense-sensor-enclosure)
 
 I designed the above enclosure to suit the components I had selected, with everything inside there isn't a lot of spare room so best to keep wire runs as short as needed for the build, I unsoldered the dupont pins off the ESP board, doing this in future I would recommend getting an ESP32 with no pins on it to save time and space.
 
