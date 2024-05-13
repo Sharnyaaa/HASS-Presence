@@ -1,5 +1,3 @@
-**Please note I am in the middle of writing out this guide and will fill it out including a link to the enclosure I designed and the code I am using**
-
 This is a guide I am writing on the MMWave sensor I have built for my smart home.
 
 It combines 2 physical sensors as well as a bluetooth proxy for presence detection in rooms of my home.
@@ -41,3 +39,14 @@ I soldered the other ends of the leads into the related pads on the ESP then too
   Data (White) = P21
 
   Ground (Black) = Ground
+
+  This is what it looked like once I had both sensors wired up to bench test
+![Immich photo 1332](https://github.com/Sharnyaaa/HASS-Presence/assets/73518453/8ce9a5c5-0660-4280-a665-e49168ab6617)
+
+Then put it all in the case and tested a final time before using hot glue to secure the ESP board in place then attaching the lid, its friction fit and stays closed just fine
+
+![Immich photo 1339](https://github.com/Sharnyaaa/HASS-Presence/assets/73518453/6d6a04c6-a431-4229-b0e8-0ce8d10ce60a)
+
+![Immich Photo 1336](https://github.com/Sharnyaaa/HASS-Presence/assets/73518453/bf32d65b-1434-481a-a5e9-57011bd0a11c)
+
+Finally using the YAML in the file in this repo in ESPhome the sensor should show up and be ready to tune and use
